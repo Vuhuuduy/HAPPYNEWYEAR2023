@@ -51,7 +51,7 @@ body :-ms-input-placeholder {
   height: 100%;
   overflow: hidden;
 
-  background-image: url(https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/background-tet-2023-28.jpg);
+  background-image: url(https://pin.it/2mkgSNv);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center   ;
@@ -262,3 +262,25 @@ button:active {
   }
 }
 
+
+#video_background {
+
+position: absolute;
+
+bottom: 0px;
+
+right: 0px;
+
+min-width: 100%;
+min-height: 100%;
+
+
+width: auto;
+
+height: auto;
+
+z-index: -1000;
+
+overflow: hidden;
+
+}
